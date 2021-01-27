@@ -706,7 +706,7 @@ border-radius: 3px;
   }
 }
 
-@media (orientation:landscape) and (max-width:1366px) and (max-height: 1024px) and (min-height:1024px){
+@media screen and (orientation:landscape) and (max-width:1366px) and (max-height: 1024px) and (min-height:1024px){
   #credits h6{
     font-size: 30px!important;
   }
@@ -746,7 +746,7 @@ border-radius: 3px;
 }
 
 
-@media (orientation:portrait) and (max-width:768px) and (max-height: 1024px) and (min-height:1024px){
+@media screen and (orientation:portrait) and (max-width:768px) and (max-height: 1024px) and (min-height:1024px){
   .headerlogo{
     top:3%; 
   }
@@ -795,7 +795,7 @@ border-radius: 3px;
   }
 }
 
-@media (orientation:landscape) and (max-width:1024px) and (max-height: 768px) and (min-height:768px){
+@media screen and (orientation:landscape) and (max-width:1024px) and (max-height: 768px) and (min-height:768px){
   .headerlogo{
     top:3%; 
   }
@@ -810,7 +810,7 @@ border-radius: 3px;
   }
 }
 
-@media (orientation:portrait) and (max-width:414px) and (max-height: 736px) and (min-height:736px){
+@media screen and (orientation:portrait) and (max-width:414px) and (max-height: 736px) and (min-height:736px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -900,7 +900,7 @@ border-radius: 3px;
 }
 
 
-@media (orientation:landscape) and (max-width:736px) and (max-height: 414px) and (min-height:414px){
+@media screen and (orientation:landscape) and (max-width:736px) and (max-height: 414px) and (min-height:414px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -969,7 +969,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:portrait) and (max-width:375px) and (max-height: 812px) and (min-height:812px){
+@media screen and (orientation:portrait) and (max-width:375px) and (max-height: 812px) and (min-height:812px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1068,7 +1068,7 @@ border-radius: 3px;
 }
 
 
-@media (orientation:landscape) and (max-width:812px) and (max-height: 375px) and (min-height:375px){
+@media screen and (orientation:landscape) and (max-width:812px) and (max-height: 375px) and (min-height:375px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1138,7 +1138,7 @@ border-radius: 3px;
 }
 
 
-@media (orientation:portrait) and (max-width:375px) and (max-height: 667px) and (min-height:667px){
+@media screen and (orientation:portrait) and (max-width:375px) and (max-height: 667px) and (min-height:667px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1237,7 +1237,7 @@ border-radius: 3px;
 }
 
 
-@media (orientation:portrait) and (max-width:360px) and (max-height: 740px) and (min-height:740px){
+@media screen and (orientation:portrait) and (max-width:360px) and (max-height: 740px) and (min-height:740px){
    .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1341,7 +1341,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:landscape) and (max-width:740px) and (max-height: 360px) and (min-height:360px){
+@media screen and (orientation:landscape) and (max-width:740px) and (max-height: 360px) and (min-height:360px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1412,7 +1412,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:portrait) and (max-width:412px) and (max-height: 846px) and (min-height:846px){
+@media screen and (orientation:portrait) and (max-width:412px) and (max-height: 846px) and (min-height:846px){
    .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1516,7 +1516,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:landscape) and (max-width:846px) and (max-height: 412px) and (min-height:412px){
+@media screen and (orientation:landscape) and (max-width:846px) and (max-height: 412px) and (min-height:412px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1586,8 +1586,7 @@ border-radius: 3px;
 }
 
 
-/*-------------*/
-@media (orientation:portrait) and (max-width:360px) and (max-height: 640px) and (min-height:640px){
+@media screen and (orientation:portrait) and (max-width:360px) and (max-height: 640px) and (min-height:640px){
    .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1691,7 +1690,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:landscape) and (max-width:640px) and (max-height: 360px) and (min-height:360px){
+@media screen and (orientation:landscape) and (max-width:640px) and (max-height: 360px) and (min-height:360px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1763,7 +1762,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:portrait) and (max-width:280px) and (max-height: 653px) and (min-height:653px){
+@media screen and (orientation:portrait) and (max-width:280px) and (max-height: 653px) and (min-height:653px){
    .headerblock{
     background-position-y:0; 
     max-height: 35vh;
@@ -1894,7 +1893,7 @@ border-radius: 3px;
 
 
 
-@media (orientation:landscape) and (max-width:653px) and (max-height: 280px) and (min-height:280px){
+@media screen and (orientation:landscape) and (max-width:653px) and (max-height: 280px) and (min-height:280px){
   .headerblock{
     background-position-y:0; 
     max-height: 35vh;
